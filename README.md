@@ -1,4 +1,4 @@
-                                     #Zena - Voice Assistant in Python
+ **Zena - Voice Assistant in Python**
 
 Zena is a simple voice-controlled personal assistant built using Python. It can greet you, search Wikipedia, open websites, play music, and tell the current time — all through voice commands.
 
