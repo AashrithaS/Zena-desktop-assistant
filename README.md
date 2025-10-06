@@ -49,7 +49,7 @@ server.login('your_email@gmail.com', 'your_app_password')
 
 python zena.py
 
-Command	Action
+Command	Action:
 
 "Open Google"	Launches Google in your default browser
 
